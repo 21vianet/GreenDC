@@ -6,4 +6,10 @@ Today, green computing has been the goal pursued by various industries. In the c
 
 *Keyword: cloud computing, cloud native, infrastructure, energy saving, energy consumption model* 
 
+|      | Project                                                   | Content                                                   | Method        |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
+| 1    | [Comparison of Energy Consumption of Static Services](docs/2.Static_service_energy_consumption.md) | Resource consumption of Cloud-Native and Virtual Machine deployment for the same static service.                     | Quantitative Analysis          |
+| 2    | Comparison of Energy Consumption for Microservice Frameworks | Resource consumption and service capability comparison between cloud-native microservice framework and traditional microservice framework for equivalent services. | Quantitative Analysis          |
+| 3    | ...  |     |
+
 [Detail](README_CN.md)...
