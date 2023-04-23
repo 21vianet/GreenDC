@@ -1,6 +1,7 @@
+```
 Virtual Machine:
   OS: CentOS Linux release 7.9.2009 (Core)
-  CPU: 
+  CPU:   
     model name: Intel Core Processor (Haswell, no TSX, IBRS)
     MHz: 2399.996
     cores: 4C
@@ -45,6 +46,7 @@ JMeter:
   form: http-request
   pressure: 50 thread/request 
   duration: 120s
+```
 
 
 
